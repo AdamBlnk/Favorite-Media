@@ -1,0 +1,30 @@
+h1 {
+	font-family: monospace;
+	color: white;
+}
+
+body{
+	font-family: monospace;
+	background-color: #191919;
+	color: white;
+}
+
+img{
+	border-style: solid;
+	border-color: #646464;
+	width: 200px;
+	height: 300px;
+}
+
+#favMovies{
+	padding-bottom: 30px;
+
+}
+
+.movie{
+	padding-right: 30px;
+}
+
+.show{
+	padding-right: 30px;
+}
